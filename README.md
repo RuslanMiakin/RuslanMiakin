@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack
 ----------
 
-I have been working in the field of web development since 2020, developing websites on ReactJS, NextJS. There is a decent experience with php (MVC). Extensive experience with the Marketplace API. Prior to working on the Internet, I had experience administering Linux servers in television. I use Linux extensively for the web.
+I have been working in the field of web development since 2017, developing websites on ReactJS, NextJS. There is a decent experience with php (MVC). Extensive experience with the Marketplace API. Prior to working on the Internet, I had experience administering Linux servers in television. I use Linux extensively for the web.
 
 *   🌍  I'm based in Saint Petersburg
 *   ✉️  You can contact me at [miakin.ruslan@gmail.com](mailto:miakin.ruslan@gmail.com)
