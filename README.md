@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+RAG+Engineer;Backend+Architect;SaaS+Builder;Automation+%26+Data+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
